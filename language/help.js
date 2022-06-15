@@ -11,7 +11,12 @@ exports.menu = (botname, pushname, salam) => {
 
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏
-Info bot RAM:781910138382 server:Mars versi linux:9999`
+Info bot 
+RAM:781910138382 TB
+server:Mars 
+versi linux:9999
+Plafrom:Server Nasa
+Baileys version:9.9.9.9.9.9`
 }
 
 //—————「 List 」—————//
