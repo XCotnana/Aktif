@@ -27,18 +27,18 @@ global.premium = ['6285641476033'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6285641476033' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Raditya¡X' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '¡X' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'Xdit-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Raditya¡X' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.footer = '¡X' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'http://instagram.com/hai_om.qw?utm_source=qr'
-global.ig = 'http://instagram.com/hai_om.qw?utm_source=qr'
+global.youtube = 'https://instagram.com/hai_om.qw'
+global.ig = 'https://instagram.com/hai_om.qw'
 global.mygc = 'https://chat.whatsapp.com/GCh8oGlUjkp16FrZ2CYEob'
-global.myweb = 'https://raditxdit.my.id/'
-global.email = 'rya76438@gmail.com'
-global.region = 'indonesia'
+global.myweb = 'https://instagram.com/hai_om.qw'
+global.email = 'xcomunityx77@gmail.com'
+global.region = 'Mars'
 
 //—————「 Set Wm 」—————//
 global.packname = 'Stikerby Xdit-MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
@@ -83,9 +83,9 @@ global.sp = '⭔'
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
 success: '_Done Deckk._',
-admin: '_Fitur Khusus Admin Group!_',
+admin: '_Bukan Admin Ngatur Lagi!_',
 botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
-owner: '_Fitur Khusus Owner Bot_',
+owner: '_Ga Usah Ngatur Deckk Lo Bukan Owner Gw_',
 group: '_Fitur Digunakan Hanya Untuk Group!_',
 private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot_',
