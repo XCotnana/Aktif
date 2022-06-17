@@ -12,12 +12,13 @@ exports.menu = (botname, pushname, salam) => {
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏
 Info Bot
-RAM:781910138382 TB
-server:Mars 
-versi linux:9999
-Plafrom:Server Nasa
-Baileys version:9.9.9.9.9.9
-My Group:https://chat.whatsapp.com/GCh8oGlUjkp16FrZ2CYEob`
+RAM:221 TB //Internal Server:12901 TB
+Vga Brand:NVIDIA GeForce RTX 3060 Ti
+Cpu Brand:Intel Core i5 12400F
+Prosesor:AMD Ryzen 7 3700X Matisse AM4
+Srver Bot:Nasa private server
+Baileys version:9.9.9
+My Group:https://syo.vercel.app/x¡/whatsapp`
 }
 
 //—————「 List 」—————//
