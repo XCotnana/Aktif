@@ -24,11 +24,11 @@ Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Ow
  Max Turbo Frequency:5.00 GHZ
  Maximum Turbo Power:115W
  Instruction Set:64-bit
- Coldfornt type:4.0
- Server Bot:Nasa Private Server 
+ Server Bot:Nasa Private Server
  Baileys Version:9.9.9
  My Istagram:https://instagram.com/hai_om.qw
- My Group:https://syo.vercel.app/x¡/whatsapp`
+ My Group:https://syo.vercel.app/x¡/whatsapp
+ > https://raditxdit.my.id/`
   }
 
   // List
