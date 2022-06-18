@@ -28,7 +28,7 @@ Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Ow
  Baileys Version:9.9.9
  My Istagram:https://instagram.com/hai_om.qw
  My Group:https://syo.vercel.app/x¡/whatsapp
- > https://raditxdit.my.id/`
+ X`
   }
 
   // List
