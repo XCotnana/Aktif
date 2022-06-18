@@ -17,7 +17,7 @@ Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Ow
  Vga Brand:NVIDIA GeForce RTX 3090 Ti
  Cpu Brand:AMD Orochi "Bulldozer" 
  Prosesor:Intel® Core™ i9-12900H
- Prosesor Graphics:Intel® IrisⓇ Xe Graphics Eligible
+ Prosesor Graphics:Intel® Iris® Xe Graphics Eligible
  Graphics Outpot:eDP 1.4b.DP 1.4a,HDMI 2.1
  Max Resolution (DP):7680x4320 @ 60Hz
  Max Resolution (HDMI):4096x2304 @ 60Hz
